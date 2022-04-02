@@ -666,13 +666,6 @@ PRODUCT_PACKAGES += \
     atfwd \
     vendor.qti.hardware.fm@1.0 \
     libtime_genoff \
-    TimeService \
-    CNEService \
-    qcrilmsgtunnel \
-    ims \
     qcrilhook \
-    QtiTelephonyService \
     qti-telephony-common \
-    QtiTelephonyServicelibrary \
-    QPerformance \
-    UxPerformance
+    QtiTelephonyServicelibrary
